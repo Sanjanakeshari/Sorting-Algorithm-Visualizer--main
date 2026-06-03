@@ -1,6 +1,6 @@
 /*! p5.dom.js v0.3.4 Jan 19, 2017 */
 /**
- * <p>The web is much more than just canvas and p5.dom makes it easy to interact
+ * <p>The web is much more than canvas and p5.dom makes it easy to interact
  * with other HTML5 objects, including text, hyperlink, image, input, video,
  * audio, and webcam.</p>
  * <p>There is a set of creation methods, DOM manipulation methods, and
