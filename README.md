@@ -6,7 +6,7 @@
 
 ## Description
 
-The **Sorting Algorithm Visualizer** is an interactive web application that allows users to visualize the working of various sorting algorithms. The array elements are shown as vertical bars, and each bar’s height represents the value. The user can see how the sorting algorithms operate in real-time and understand their efficiency.
+The **Sorting Algorithms Visualizer** is an interactive web application that allows users to visualize the working of various sorting algorithms. The array elements are shown as vertical bars, and each bar’s height represents the value. The user can see how the sorting algorithms operate in real-time and understand their efficiency.
 
 ### Features:
 - **Interactive UI**: Click on a sorting algorithm to visualize its process.
