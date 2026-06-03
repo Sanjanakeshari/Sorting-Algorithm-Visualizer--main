@@ -4,7 +4,7 @@
  *  target="_blank">Web Audio</a> functionality including audio input,
  *  playback, analysis and synthesis.
  *  <br/><br/>
- *  <a href="#/p5.SoundFile"><b>p5.SoundFile</b></a>: Load and play sound files.<br/>
+ *  <a href="#/p5.SoundFile"><b>p5.SoundFile</b></a>: Load and play sound files<br/>
  *  <a href="#/p5.Amplitude"><b>p5.Amplitude</b></a>: Get the current volume of a sound.<br/>
  *  <a href="#/p5.AudioIn"><b>p5.AudioIn</b></a>: Get sound from an input source, typically
  *    a computer microphone.<br/>
