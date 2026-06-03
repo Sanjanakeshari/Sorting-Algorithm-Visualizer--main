@@ -10,7 +10,7 @@ var frame_rate_val = 40;
 var timer_arr = [];
 var time_taken = 0;
 var pause = false;
-//each bar has following properties
+//each bar consist of following properties
 class Element {
     constructor(val) {
         this.val = val;
